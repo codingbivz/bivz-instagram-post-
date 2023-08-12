@@ -1,0 +1,81 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+body {
+    background-color: black; 
+}
+
+header{
+  margin-top: 20px;
+}
+
+
+.post{
+  margin: 20px;
+  display: inline-block;
+  background-color: white;
+}
+
+.fa-bars{
+  float: right;
+  margin-top: -15px;
+  padding-right: 10px;
+}
+
+.fa-bookmark{
+  float: right;
+  padding-right: 10px;
+}
+
+
+
+
+div{
+  box-sizing:content-box;
+}
+
+.fa-brands{
+  margin-top: -30px;
+  margin-left: 5px;
+}
+
+.container{
+  margin: auto;
+  width: 500px;
+}
+
+.text{
+  margin-top: -30px;
+  margin-left: 30px;
+}
+
+    .post-feed {
+       max-width: 600px;
+        max-height: 1000px;
+        margin:  auto;
+        padding: 20px;
+        background-color: white; 
+      }
+
+      .logo{
+        padding: 2px;
+      }
+
+
+
+
+      .post-icons{
+        display: flex-direction;
+        padding-left: 10px;
+      }
+
+img{
+  width: 500px;
+  height: 300px;
+  padding-top: 10px;
+}
+
+p{
+  padding-left: 5px;
+}
